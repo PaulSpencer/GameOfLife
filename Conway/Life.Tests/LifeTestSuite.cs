@@ -16,5 +16,13 @@ namespace Life.Tests
             Assert.AreEqual(result.X, x);
             Assert.AreEqual(result.Y, y);
         }
+
+        [Test]
+        public void MakeCellAlive_PassedCoordinates_CellIsAlive()
+        {
+            var result = new Surface(3,3);
+            result.MakeCellAlive(1, 1);
+            Assert.AreEqual(true, result.GetCellValue(1,1));
+        }
     }
 }

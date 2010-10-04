@@ -33,7 +33,7 @@
   <ItemGroup>
     <Reference Include="nunit.framework, Version=2.5.6.10205, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL" />
     <Reference Include="Rhino.Mocks">
-      <HintPath>D:\Software\RhinoMocks\Rhino.Mocks.dll</HintPath>
+      <HintPath>..\..\..\..\Visual Studio 2008\Projects\BlogEngine\TestResults\DeathByVegetables_DEATHBYVEGET-PC 2009-10-30 12_26_03\Out\Rhino.Mocks.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
