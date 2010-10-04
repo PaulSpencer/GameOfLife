@@ -1,4 +1,5 @@
-bin/**/*
-obj/**/*
-Properties/**/*
-_Resharper*/**/*
+Conway/Life.Tests/bin/**/*
+Conway/Life.Tests/obj/**/*
+Conway/Life.Tests/Properties/**/*
+Conway/_ReSharper.Conway/**/*
+Conway/_ReSharper.Conway/*
