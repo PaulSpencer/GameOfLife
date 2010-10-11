@@ -4,10 +4,14 @@ namespace Life.Tests
 {
     public class Surface
     {
+        private bool[,] _surface;
+
         public Surface(int x, int y)
         {
             X = x;
             Y = y;
+
+            _surface = new bool[X,Y];
         }
 
         public int X
@@ -20,14 +24,18 @@ namespace Life.Tests
             get; set;
         }
 
-        internal object GetCellValue(int p, int p_2)
+        internal bool GetCellValue(int x, int y)
         {
-            throw new NotImplementedException();
+            return _surface[x, y];
         }
 
-        internal void MakeCellAlive(int p, int p_2)
+        internal void MakeCellAlive(int x, int y)
         {
-            throw new NotImplementedException();
+            if ((x<0 || x>=X) && (y<0 || y>=Y))
+            {
+                throw new ArgumentException("Coordinates out of surface bounds");
+            }
+            _surface[x, y] = true;
         }
     }
 }

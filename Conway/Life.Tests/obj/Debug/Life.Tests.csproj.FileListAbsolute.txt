@@ -1,0 +1,8 @@
+Z:\Projects\Paul\Conway\Life.Tests\bin\Debug\Life.Tests.dll
+Z:\Projects\Paul\Conway\Life.Tests\bin\Debug\Life.Tests.pdb
+Z:\Projects\Paul\Conway\Life.Tests\bin\Debug\nunit.framework.dll
+Z:\Projects\Paul\Conway\Life.Tests\bin\Debug\nunit.framework.xml
+Z:\Projects\Paul\Conway\Life.Tests\bin\Debug\Rhino.Mocks.xml
+Z:\Projects\Paul\Conway\Life.Tests\obj\Debug\ResolveAssemblyReference.cache
+Z:\Projects\Paul\Conway\Life.Tests\obj\Debug\Life.Tests.dll
+Z:\Projects\Paul\Conway\Life.Tests\obj\Debug\Life.Tests.pdb

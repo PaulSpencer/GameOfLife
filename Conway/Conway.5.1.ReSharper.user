@@ -7,8 +7,18 @@
     </boolean>
   </SettingsComponent>
   <RecentFiles>
-    <RecentFiles />
-    <RecentEdits />
+    <RecentFiles>
+      <File id="56777320-8976-4082-AA5F-5D9D08FB4F1F/f:Surface.cs" caret="140" fromTop="7" />
+      <File id="56777320-8976-4082-AA5F-5D9D08FB4F1F/f:LifeTestSuite.cs" caret="442" fromTop="15" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="56777320-8976-4082-AA5F-5D9D08FB4F1F/f:LifeTestSuite.cs" caret="368" fromTop="10" />
+      <File id="56777320-8976-4082-AA5F-5D9D08FB4F1F/f:LifeTestSuite.cs" caret="438" fromTop="15" />
+      <File id="56777320-8976-4082-AA5F-5D9D08FB4F1F/f:LifeTestSuite.cs" caret="463" fromTop="14" />
+      <File id="56777320-8976-4082-AA5F-5D9D08FB4F1F/f:Surface.cs" caret="276" fromTop="16" />
+      <File id="56777320-8976-4082-AA5F-5D9D08FB4F1F/f:Surface.cs" caret="302" fromTop="17" />
+      <File id="56777320-8976-4082-AA5F-5D9D08FB4F1F/f:LifeTestSuite.cs" caret="442" fromTop="15" />
+    </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
     <NAntPath value="" />
@@ -20,4 +30,12 @@
     <NUnitInstallDir>C:\Program Files (x86)\NUnit 2.5.6\bin\net-2.0\</NUnitInstallDir>
     <UseAddins>Never</UseAddins>
   </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="new" priority="0" />
+      <Item value="result" priority="0" />
+      <Item value="TestCase" priority="0" />
+      <Item value="int" priority="1" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
 </Configuration>
